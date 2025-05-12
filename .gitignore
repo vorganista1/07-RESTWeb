@@ -1,11 +1,5 @@
+
+
 node_modules/
-dist/
-
-.DS_Store
-
-logs/
-
+keys/
 .env
-
-mongo/
-postgresql/
